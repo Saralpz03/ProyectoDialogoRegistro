@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProyectoDialogExten</string>
+    <string name="email">Email</string>
+    <string name="paswd">Contrasenia</string>
+    <string name="hintEmail">Introduzca su email</string>
+    <string name="hintPaswd">Introduzca su contraseña</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="cancelar">CANCELAR</string>
+</resources>
